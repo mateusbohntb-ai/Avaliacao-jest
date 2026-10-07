@@ -56,4 +56,20 @@ Para dar inicio o projeto será necessario executar o comando :
 
 npm run dev 
 
-Para executar o supertest é necessario stopar o servidor dando ctrl
+Para executar o supertest é necessario stopar o servidor dando ctrl C e rodar o comando :
+
+npm run test
+
+```
+
+# Documentações dos endpoint
+
+```
+
+As documentações da api esta disponivel pela maquina local do computador :
+
+localhost:3000/docs 
+
+OBS:A URL tem que ser colada no navegador na aba de pesquisa 
+
+```
