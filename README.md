@@ -237,7 +237,7 @@ Os testes também verificam o cabeçalho `Content-Type: application/json` nas re
 
 ### Execução do `npm test`
 
-> Inserir aqui a captura de tela do terminal com todos os testes passando e a cobertura.
+
 
 
 ![npm test](./docs/test.png)
@@ -245,7 +245,6 @@ Os testes também verificam o cabeçalho `Content-Type: application/json` nas re
 
 ### Swagger UI (`/docs`)
 
-> Inserir aqui a captura de tela do Swagger UI exibindo todos os endpoints.
 
 
 ![end point](./docs/dd.png)
